@@ -50,10 +50,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/phanlamtruonghai2601" target="blank">
+  <!-- <a href="https://facebook.com/phanlamtruonghai2601" target="blank">
     <img src="images/facebook.png" 
     title="Follow me" alt="phanlamtruonghai2601-facebook" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/truonghai2601" target="blank">
     <img src="images/linkedin.png" title="Connect me on Linkedin" alt="truonghai2601-linkedin" />
   </a>
